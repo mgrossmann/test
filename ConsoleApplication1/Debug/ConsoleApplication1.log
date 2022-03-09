@@ -1,0 +1,61 @@
+﻿  b23c#hlp.c
+c:\projects\academy\consoleapplication1\consoleapplication1\b23c#hlp.c(101): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(343): note: see declaration of 'strncpy'
+c:\projects\academy\consoleapplication1\consoleapplication1\b23c#hlp.c(200): warning C4013: 'toupper' undefined; assuming extern returning int
+c:\projects\academy\consoleapplication1\consoleapplication1\b23c#hlp.c(541): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\projects\academy\consoleapplication1\consoleapplication1\b23c#hlp.c(542): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\projects\academy\consoleapplication1\consoleapplication1\b23c#hlp.c(552): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\projects\academy\consoleapplication1\consoleapplication1\b23c#hlp.c(553): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\projects\academy\consoleapplication1\consoleapplication1\b23c#hlp.c(563): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\projects\academy\consoleapplication1\consoleapplication1\b23c#hlp.c(564): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\projects\academy\consoleapplication1\consoleapplication1\b23c#hlp.c(738): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\projects\academy\consoleapplication1\consoleapplication1\b23c#hlp.c(744): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\projects\academy\consoleapplication1\consoleapplication1\b23c#hlp.c(746): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\projects\academy\consoleapplication1\consoleapplication1\b23c#hlp.c(1095): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\projects\academy\consoleapplication1\consoleapplication1\b23c#hlp.c(1109): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\projects\academy\consoleapplication1\consoleapplication1\b23c#hlp.c(1119): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\projects\academy\consoleapplication1\consoleapplication1\b23c#hlp.c(1122): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\projects\academy\consoleapplication1\consoleapplication1\b23c#hlp.c(1127): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'void *'
+c:\projects\academy\consoleapplication1\consoleapplication1\b23c#hlp.c(1127): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\projects\academy\consoleapplication1\consoleapplication1\b23c#hlp.c(1140): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\projects\academy\consoleapplication1\consoleapplication1\b23c#hlp.c(375): warning C4716: 'sendFieldInfo': must return a value
+  stdafx.cpp
+  ConsoleApplication1.cpp
+c:\projects\academy\consoleapplication1\consoleapplication1\consoleapplication1.cpp(354): warning C4101: 'rc': unreferenced local variable
+c:\projects\academy\consoleapplication1\consoleapplication1\consoleapplication1.cpp(381): warning C4101: 'adrrec': unreferenced local variable
+c:\projects\academy\consoleapplication1\consoleapplication1\consoleapplication1.cpp(380): warning C4101: 'pbqlcmd': unreferenced local variable
+c:\projects\academy\consoleapplication1\consoleapplication1\consoleapplication1.cpp(384): warning C4101: 'first': unreferenced local variable
+c:\projects\academy\consoleapplication1\consoleapplication1\consoleapplication1.cpp(379): warning C4101: 'bqlcmd': unreferenced local variable
+c:\projects\academy\consoleapplication1\consoleapplication1\consoleapplication1.cpp(378): warning C4101: 'openstr': unreferenced local variable
+c:\projects\academy\consoleapplication1\consoleapplication1\consoleapplication1.cpp(554): warning C4018: '<': signed/unsigned mismatch
+c:\projects\academy\consoleapplication1\consoleapplication1\consoleapplication1.cpp(550): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\projects\academy\consoleapplication1\consoleapplication1\consoleapplication1.cpp(556): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\projects\academy\consoleapplication1\consoleapplication1\consoleapplication1.cpp(506): warning C4101: 'ret_rec': unreferenced local variable
+c:\projects\academy\consoleapplication1\consoleapplication1\consoleapplication1.cpp(507): warning C4101: 'record_len': unreferenced local variable
+c:\projects\academy\consoleapplication1\consoleapplication1\consoleapplication1.cpp(616): warning C4101: 'ret_rec': unreferenced local variable
+c:\projects\academy\consoleapplication1\consoleapplication1\consoleapplication1.cpp(617): warning C4101: 'record_len': unreferenced local variable
+c:\projects\academy\consoleapplication1\consoleapplication1\consoleapplication1.cpp(695): warning C4101: 'pWQE': unreferenced local variable
+c:\projects\academy\consoleapplication1\consoleapplication1\consoleapplication1.cpp(697): warning C4101: 'rlen': unreferenced local variable
+c:\projects\academy\consoleapplication1\consoleapplication1\consoleapplication1.cpp(698): warning C4101: 'alen': unreferenced local variable
+c:\projects\academy\consoleapplication1\consoleapplication1\consoleapplication1.cpp(694): warning C4101: 'r1': unreferenced local variable
+c:\projects\academy\consoleapplication1\consoleapplication1\consoleapplication1.cpp(696): warning C4101: 'pURB': unreferenced local variable
+  Generating Code...
+  ConsoleApplication1.vcxproj -> C:\projects\academy\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\projects\academy\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Partial PDB)
